@@ -1,4 +1,4 @@
-# Homework 3 
+# Homework 3 - June 2025
 # Wine Quality Explorer 
 
 An interactive dashboard that lets you explore and analyze wine quality data from over 6,000 red and white wines.
